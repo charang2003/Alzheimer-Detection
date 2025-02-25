@@ -1,0 +1,7 @@
+Classes:
+Mild Demented, Moderate Demented, Non-Demented, and Very Mild Demented.
+
+Dataset:
+https://www.kaggle.com/datasets/uraninjo/augmented-alzheimer-mri-dataset
+
+
